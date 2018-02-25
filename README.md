@@ -26,3 +26,6 @@ For each environment, we did three trials.
 
 * `/rosbag` :  The rosbag files.  
 the rosbag files run on the ROS-indigo, Ubuntu 14.04.
+
+### Install
+`git clone https://github.com/EmergentSystemLabStudent/Dataset_of_SpCoMapping.git`
