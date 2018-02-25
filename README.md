@@ -24,8 +24,5 @@ For each environment, we did three trials.
   * `/room*/Xtx.csv` : The X coordinate which the robot obtained image feature
   * `/room*/Xty.csv` : The Y coordinate which the robot obtained image feature
 
-* `/rosbag` :  The rosbag files.  
-the rosbag files run on the ROS-indigo, Ubuntu 14.04.
-
 ### Install
 `git clone https://github.com/EmergentSystemLabStudent/Dataset_of_SpCoMapping.git`
